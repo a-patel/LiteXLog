@@ -12,4 +12,5 @@ It's developed for .NET Standard 2.0 and available via [NuGet](https://www.nuget
 Run the nuget command for installing the client as,
 ```
 Install-Package LiteX.Log
+Install-Package LiteX.Extensions.Logging
 ```
